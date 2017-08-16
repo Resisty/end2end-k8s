@@ -1,0 +1,6 @@
+*.yaml
+*.pyc
+.Python
+lib/
+bin/
+include/

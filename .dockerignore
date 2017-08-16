@@ -1,0 +1,8 @@
+.Python
+bin/*
+include/*
+lib/*
+pip-selfcheck.json
+**/*.md
+**/*.sh
+!self_check.sh
